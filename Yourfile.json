@@ -21,7 +21,7 @@
         "device_id": "7bda961f71a154ca",
         "key": "Zain",
         "expirydate": "1-1-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "",
