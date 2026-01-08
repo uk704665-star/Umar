@@ -8,8 +8,8 @@
     {
         "device_id": "51fe4a91a63668d0",
         "key": "Faizan",
-        "expirydate": "2-1-2026",
-        "Allowoffline": false
+        "expirydate": "11-1-2026",
+        "Allowoffline": true
     },
     {
         "device_id": "bbdd673145501a84",
@@ -20,7 +20,7 @@
     {
         "device_id": "7bda961f71a154ca",
         "key": "Zain",
-        "expirydate": "7-1-2026",
+        "expirydate": "11-1-2026",
         "Allowoffline": true
     },
     {
