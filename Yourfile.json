@@ -14,8 +14,8 @@
     {
         "device_id": "bbdd673145501a84",
         "key": "Umar",
-        "expirydate": "30-10-2027",
-        "Allowoffline": false
+        "expirydate": "30-10-2021",
+        "Allowoffline": true
     },
     {
         "device_id": "7bda961f71a154ca",
