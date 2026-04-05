@@ -9,7 +9,7 @@
         "device_id": "51fe4a91a63668d0",
         "key": "Faizan",
         "expirydate": "13-4-2021",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "bbdd673145501a84",
