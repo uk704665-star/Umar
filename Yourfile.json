@@ -51,7 +51,7 @@
         "device_id": "fb42da33561c9e3a",
         "key": "Umar5",
         "expirydate": "15-12-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "",
